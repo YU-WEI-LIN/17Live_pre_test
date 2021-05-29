@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="app_color">#FF009FCC</color>
+    <color name="gen_white">#FFFFFFFF</color>
+    <color name="gen_black">#FF000000</color>
+    <color name="gen_blue">#FF0000FF</color>
+    <color name="gen_gray">#FFEAEAEA</color>
+    <color name="gen_light_blue">#FF3366FF</color>
+    <color name="gen_yallow">#FFFFCC00</color>
+    <color name="gen_dark_gray">#FF595757</color>
+    <color name="gen_light_gray">#FF555555</color>
+    <color name="gen_light_gray2">#FF464646</color>
+    <color name="gen_red">#FFFF0033</color>
+    <color name="gen_pink">#FFFF69B4</color>
+    <color name="gen_green">#FF99cc33</color>
+    <color name="page_btn_bg">#FFf7fd55</color>
+    <color name="gen_black_trans_parent">#e0000000</color>
+    <color name="gen_black_trans_parent2">#33000000</color>
+    <color name="gen_gray_blue">#FF313946</color>
+</resources>
